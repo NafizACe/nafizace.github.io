@@ -1,0 +1,18 @@
+<style>
+* {
+box-sizing: border-box;
+}
+
+.pic_column {
+margin-left: auto;
+margin-right: auto;
+padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.pic_row::after {
+content: "";
+clear: both;
+display: table;
+}
+</style>

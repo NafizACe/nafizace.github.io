@@ -1,0 +1,20 @@
+pepsodent germinator
+
+Agency: Singularity Limited
+Client: Unilever Bangladesh
+
+Pepsodent Germinator is an Oculus based game through which pepsodent, a toothpaste brand of unilever bangladesh limited, reached top of the mind awareness of the children by putting a simple message "Brush with Pepsodent and Keep your Tooth Safe". The game can be played in two levels, morning and night mode. Player can shoot germs with Pepsodent toothpaste tubes. Germs can appear from any direction. Number of germs increases and their movement becomes more unpredictable as the player progresses. This game has two difficulty modes for adults and children. Their scores are also saved in cloud database separately. 
+
+Technologies Used: Oculus Integration, Custom Navigation System for germs, Post-Processing, Booth Lighting System with game events via serial Comm.
+Project Website: http://singularitybd.com/case-study.php?id=20
+
+vaseline friend of tigresses -- experience//
+vr wicketkeeping -- x-reality//
+vr archery -- x-reality//
+vr paint it -- x-reality//
+ninja run -- 2D//
+AR photobooth -- experience//
+idlc cwc2019 facefilter -- x-reality//
+stormy night drive -- modelling
+mig29 over dhaka -- modelling
+low poly power station -- modelling
